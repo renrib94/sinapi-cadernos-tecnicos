@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cadernos Técnicos SINAPI</title>
+<style>
+  :root {
+    --azul: #003b71;
+    --azul-claro: #0b5fb0;
+    --verde: #1a7f37;
+    --laranja: #b35c00;
+    --cinza-txt: #6b7785;
+    --vermelho: #b3261e;
+    --fundo: #f4f6f8;
+    --texto: #1c2530;
+  }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Arial, sans-serif; margin: 0; background: var(--fundo); color: var(--texto); }
+  header { background: var(--azul); color: #fff; padding: 24px 32px; }
+  header h1 { margin: 0 0 6px 0; font-size: 1.5rem; }
+  header p { margin: 0; opacity: 0.85; font-size: 0.9rem; }
+  .container { max-width: 980px; margin: 24px auto; padding: 0 16px; }
+
+  .painel { background: #fff; border: 1px solid #e3e8ee; border-radius: 12px; padding: 18px 20px; margin-bottom: 20px; }
+  .painel h2 { margin: 0 0 6px 0; font-size: 1.05rem; }
+  .painel p.sub { margin: 0 0 12px 0; font-size: 0.85rem; color: var(--cinza-txt); }
+
+  .toolbar { display: flex; gap: 12px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+  input#busca { flex: 1; min-width: 220px; padding: 10px 14px; border: 1px solid #ccd3da; border-radius: 8px; font-size: 0.95rem; }
+  select#filtro { padding: 10px 12px; border: 1px solid #ccd3da; border-radius: 8px; font-size: 0.9rem; }
+
+  #status-lista { font-size: 0.85rem; color: var(--cinza-txt); margin-bottom: 10px; }
+
+  table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; }
+  thead { background: #eef2f6; }
+  th, td { text-align: left; padding: 10px 14px; font-size: 0.88rem; border-bottom: 1px solid #eef1f4; }
+  tr:last-child td { border-bottom: none; }
+
+  .badge { display: inline-block; font-size: 0.72rem; font-weight: 600; padding: 3px 9px; border-radius: 999px; }
+  .badge.novo { background: #e6f4ea; color: var(--verde); }
+  .badge.atualizado { background: #fdf0e2; color: var(--laranja); }
+  .badge.sem_alteracao { background: #eef1f4; color: var(--cinza-txt); }
+  .badge.erro { background: #fdeceb; color: var(--vermelho); }
+
+  a.baixar {
+    display: inline-block; font-size: 0.8rem; padding: 6px 12px; border-radius: 8px;
+    background: var(--azul-claro); color: #fff; text-decoration: none;
+  }
+  a.baixar:hover { background: var(--azul); }
+
+  .info-sync { font-size: 0.82rem; color: var(--cinza-txt); margin-top: 6px; }
+  footer { text-align: center; font-size: 0.8rem; color: #8592a0; margin: 32px 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📑 Cadernos Técnicos SINAPI</h1>
+  <p>Espelho público, atualizado automaticamente toda semana via GitHub Actions — fonte: Caixa Econômica Federal / Buscador SINAPI.</p>
+</header>
+
+<div class="container">
+
+  <div class="painel">
+    <h2>ℹ️ Status da sincronização</h2>
+    <p class="sub" id="info-atualizacao">Carregando...</p>
+  </div>
+
+  <div class="painel">
+    <h2>📋 Cadernos técnicos</h2>
+    <div class="toolbar">
+      <input id="busca" type="text" placeholder="Buscar caderno pelo nome...">
+      <select id="filtro">
+        <option value="todos">Todos os status</option>
+        <option value="novo">🟢 Novos</option>
+        <option value="atualizado">🟠 Atualizados</option>
+        <option value="sem_alteracao">⚪ Sem alteração</option>
+        <option value="erro">🔴 Erro</option>
+      </select>
+    </div>
+    <div id="status-lista">Carregando lista de cadernos...</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Caderno</th>
+          <th>Status</th>
+          <th>Tamanho</th>
+          <th>Baixado em</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="corpo-tabela"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer>Fonte dos dados: Buscador SINAPI / Caixa Econômica Federal — uso pessoal e não oficial. Sincronização automática via GitHub Actions.</footer>
+
+<script>
+let TODOS = [];
+
+const ROTULOS_STATUS = {
+  novo: "🟢 Novo",
+  atualizado: "🟠 Atualizado",
+  sem_alteracao: "⚪ Sem alteração",
+  erro: "🔴 Erro",
+};
+
+function formatarData(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  return d.toLocaleString("pt-BR");
+}
+
+function formatarTamanho(bytes) {
+  if (!bytes) return "—";
+  const mb = bytes / (1024 * 1024);
+  if (mb >= 1) return mb.toFixed(2) + " MB";
+  return (bytes / 1024).toFixed(0) + " KB";
+}
+
+async function carregarManifesto() {
+  const infoBox = document.getElementById("info-atualizacao");
+  const statusLista = document.getElementById("status-lista");
+
+  try {
+    // cache-buster simples para sempre pegar a versão mais recente do manifest
+    const resp = await fetch("manifest.json?t=" + Date.now());
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    const dados = await resp.json();
+
+    const cadernos = dados.cadernos || {};
+    TODOS = Object.entries(cadernos).map(([slug, item]) => ({ slug, ...item }));
+    TODOS.sort((a, b) => a.nome.localeCompare(b.nome));
+
+    const resumo = dados.resumo_ultima_execucao;
+    let resumoTexto = "";
+    if (resumo) {
+      resumoTexto = ` · Última execução: ${resumo.novos} novos, ${resumo.atualizados} atualizados, ` +
+                    `${resumo.sem_alteracao} sem alteração, ${resumo.erros} erros.`;
+    }
+
+    infoBox.textContent =
+      `Última sincronização: ${formatarData(dados.atualizado_em)} · ${TODOS.length} cadernos no total.` +
+      resumoTexto;
+
+    statusLista.textContent = `${TODOS.length} cadernos técnicos disponíveis.`;
+    renderizarTabela(TODOS);
+  } catch (e) {
+    infoBox.textContent = "Ainda não há dados sincronizados. O GitHub Actions ainda não rodou pela primeira vez.";
+    statusLista.textContent = "Nenhum caderno disponível ainda.";
+  }
+}
+
+function renderizarTabela(itens) {
+  const corpo = document.getElementById("corpo-tabela");
+  corpo.innerHTML = "";
+
+  if (itens.length === 0) {
+    corpo.innerHTML = "<tr><td colspan='5'>Nenhum caderno encontrado.</td></tr>";
+    return;
+  }
+
+  itens.forEach(item => {
+    const tr = document.createElement("tr");
+    const rotulo = ROTULOS_STATUS[item.status_ultima_sincronizacao] || item.status_ultima_sincronizacao;
+    const temArquivo = item.arquivo && item.status_ultima_sincronizacao !== "erro";
+    tr.innerHTML = `
+      <td>${item.nome}</td>
+      <td><span class="badge ${item.status_ultima_sincronizacao}">${rotulo}</span></td>
+      <td>${formatarTamanho(item.tamanho_bytes)}</td>
+      <td>${formatarData(item.baixado_em)}</td>
+      <td>${temArquivo ? `<a class="baixar" href="${item.arquivo}" download>⬇️ Baixar</a>` : "—"}</td>
+    `;
+    corpo.appendChild(tr);
+  });
+}
+
+function aplicarFiltros() {
+  const termo = document.getElementById("busca").value.toLowerCase();
+  const filtro = document.getElementById("filtro").value;
+
+  let filtrados = TODOS.filter(item => item.nome.toLowerCase().includes(termo));
+  if (filtro !== "todos") {
+    filtrados = filtrados.filter(item => item.status_ultima_sincronizacao === filtro);
+  }
+  renderizarTabela(filtrados);
+}
+
+document.getElementById("busca").addEventListener("input", aplicarFiltros);
+document.getElementById("filtro").addEventListener("change", aplicarFiltros);
+
+carregarManifesto();
+</script>
+
+</body>
+</html>
