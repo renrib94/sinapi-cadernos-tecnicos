@@ -24,7 +24,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Rodar sincronização
-        run: python scripts/sync_sinapi.py
+        run: python -u scripts/sync_sinapi.py
+        env:
+          PYTHONUNBUFFERED: "1"
 
       - name: Commitar e enviar alterações (se houver)
         run: |
