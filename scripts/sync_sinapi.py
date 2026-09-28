@@ -87,7 +87,8 @@ def carregar_lista_cadernos():
         href = a["href"]
         if "/caderno-tecnico/" in href:
             url_pagina = urljoin(LISTAGEM_URL, href)
-            nome = a.get_text(strip=True) or slugify(href)
+            nome_bruto = a.get_text(separator=" ", strip=True) or slugify(href)
+            nome = re.sub(r"\s*\d+\s*$", "", nome_bruto).strip() or nome_bruto
             slug = slugify(nome)
             if slug not in dados:
                 dados[slug] = {"nome": nome, "url_pagina": url_pagina}
