@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19T16:17:17+00:00",
+  "atualizado_em": "2026-10-26T15:56:41+00:00",
   "cadernos": {
     "acessibilidade": {
       "nome": "Acessibilidade",
@@ -12,7 +12,7 @@
       "tamanho_bytes": 589342,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:14:50+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:12+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:17+00:00"
     },
     "alvenaria-de-vedacao": {
       "nome": "Alvenaria de vedação",
@@ -25,7 +25,7 @@
       "tamanho_bytes": 2928323,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:14:58+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:17+00:00"
     },
     "alvenaria-estrutural---blocos-ceramicos": {
       "nome": "Alvenaria estrutural - blocos cerâmicos",
@@ -38,7 +38,7 @@
       "tamanho_bytes": 1977966,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:05+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:18+00:00"
     },
     "alvenaria-estrutural---blocos-ceramicos-34-composicoes-atualizado-07": {
       "nome": "Alvenaria estrutural - blocos cerâmicos 34 composições · atualizado 07/",
@@ -51,7 +51,7 @@
       "tamanho_bytes": 1977966,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:10+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:14+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:19+00:00"
     },
     "alvenaria-estrutural---blocos-de-concreto": {
       "nome": "Alvenaria estrutural - blocos de concreto",
@@ -64,7 +64,7 @@
       "tamanho_bytes": 2562119,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:17+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:20+00:00"
     },
     "alvenaria-estrutural---blocos-de-concreto-44-composicoes-atualizado-07": {
       "nome": "Alvenaria estrutural - blocos de concreto 44 composições · atualizado 07/",
@@ -77,7 +77,7 @@
       "tamanho_bytes": 2562119,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:23+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:21+00:00"
     },
     "alvenarias-diversas": {
       "nome": "Alvenarias diversas",
@@ -90,7 +90,7 @@
       "tamanho_bytes": 1307496,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:27+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:16+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:22+00:00"
     },
     "argamassas": {
       "nome": "Argamassas",
@@ -103,7 +103,7 @@
       "tamanho_bytes": 7694883,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:15:45+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:17+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:22+00:00"
     },
     "argamassas-180-composicoes-atualizado-07": {
       "nome": "Argamassas 180 composições · atualizado 07/",
@@ -116,7 +116,7 @@
       "tamanho_bytes": 7694883,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:16:04+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:17+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:23+00:00"
     },
     "armacao-de-estacas": {
       "nome": "Armação de estacas",
@@ -129,7 +129,7 @@
       "tamanho_bytes": 5957127,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:16:18+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:18+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:24+00:00"
     },
     "armacao-para-estruturas-de-concreto-armado": {
       "nome": "Armação para estruturas de concreto armado",
@@ -142,7 +142,7 @@
       "tamanho_bytes": 2962506,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:16:27+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:19+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:25+00:00"
     },
     "arrasamento-de-estacas": {
       "nome": "Arrasamento de estacas",
@@ -155,7 +155,7 @@
       "tamanho_bytes": 545831,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:16:32+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:19+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:26+00:00"
     },
     "asfalto": {
       "nome": "Asfalto",
@@ -168,7 +168,7 @@
       "tamanho_bytes": 851523,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:16:35+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:20+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:26+00:00"
     },
     "assentamento-de-tubos-de-pvc-e-metalicos-em-redes-de-agua": {
       "nome": "Assentamento de tubos de PVC e metálicos em redes de água",
@@ -181,7 +181,7 @@
       "tamanho_bytes": 37463422,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:18:00+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:21+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:27+00:00"
     },
     "assentamento-de-tubos-de-esgoto-em-pvc-e-pead": {
       "nome": "Assentamento de tubos de esgoto em PVC e PEAD",
@@ -194,7 +194,7 @@
       "tamanho_bytes": 6311553,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-12T09:16:13+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:22+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:28+00:00"
     },
     "assentamento-de-tubos-de-esgoto-ou-drenagem-pluvial-em-concreto": {
       "nome": "Assentamento de tubos de esgoto ou drenagem pluvial em concreto",
@@ -207,7 +207,7 @@
       "tamanho_bytes": 4973667,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:18:17+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:22+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:29+00:00"
     },
     "aterro-e-reaterro-de-valas": {
       "nome": "Aterro e reaterro de valas",
@@ -220,7 +220,7 @@
       "tamanho_bytes": 2559610,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:18:24+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:23+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:30+00:00"
     },
     "aterros-bases-sub-bases-e-imprimacoes": {
       "nome": "Aterros, bases, sub bases e imprimações",
@@ -233,7 +233,7 @@
       "tamanho_bytes": 15431792,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:01+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:24+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:31+00:00"
     },
     "bocas-para-bueiros": {
       "nome": "Bocas para bueiros",
@@ -246,7 +246,7 @@
       "tamanho_bytes": 5809002,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:15+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:25+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:31+00:00"
     },
     "bombas-hidraulicas---centrifugas-horizontais-e-submersiveis": {
       "nome": "Bombas hidráulicas - centrífugas, horizontais e submersíveis",
@@ -259,7 +259,7 @@
       "tamanho_bytes": 1244015,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:19+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:25+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:32+00:00"
     },
     "brises": {
       "nome": "Brises",
@@ -272,7 +272,7 @@
       "tamanho_bytes": 620886,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:21+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:26+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:33+00:00"
     },
     "caixas-de-agua-para-edificacoes": {
       "nome": "Caixas de água para edificações",
@@ -285,7 +285,7 @@
       "tamanho_bytes": 1625149,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:26+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:26+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:34+00:00"
     },
     "caixas-enterradas": {
       "nome": "Caixas enterradas",
@@ -298,7 +298,7 @@
       "tamanho_bytes": 3245555,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:35+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:27+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:35+00:00"
     },
     "canaletas-grelhas-e-caixas-com-grelha-para-drenagem": {
       "nome": "Canaletas, grelhas e caixas com grelha para drenagem",
@@ -311,7 +311,7 @@
       "tamanho_bytes": 2696897,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:42+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:28+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:35+00:00"
     },
     "cercas-protetores-e-alambrados": {
       "nome": "Cercas, protetores e alambrados",
@@ -324,7 +324,7 @@
       "tamanho_bytes": 2159640,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:48+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:29+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:36+00:00"
     },
     "chapisco": {
       "nome": "Chapisco",
@@ -337,7 +337,7 @@
       "tamanho_bytes": 2091824,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:19:54+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:29+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:37+00:00"
     },
     "concretagem-para-estruturas-de-concreto-armado": {
       "nome": "Concretagem para estruturas de concreto armado",
@@ -350,7 +350,7 @@
       "tamanho_bytes": 2672620,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:01+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:30+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:38+00:00"
     },
     "concreto-projetado": {
       "nome": "Concreto projetado",
@@ -363,7 +363,7 @@
       "tamanho_bytes": 2724960,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:08+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:31+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:39+00:00"
     },
     "concreto-projetado-41-composicoes-atualizado-07": {
       "nome": "Concreto projetado 41 composições · atualizado 07/",
@@ -376,7 +376,7 @@
       "tamanho_bytes": 2724960,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:15+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:31+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:39+00:00"
     },
     "concreto-protendido": {
       "nome": "Concreto protendido",
@@ -389,7 +389,7 @@
       "tamanho_bytes": 2334497,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:21+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:32+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:40+00:00"
     },
     "contrapiso": {
       "nome": "Contrapiso",
@@ -402,7 +402,7 @@
       "tamanho_bytes": 2670477,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:28+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:33+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:41+00:00"
     },
     "custos-horarios-produtivo-e-improdutivo-dos-equipamentos": {
       "nome": "Custos horários produtivo e improdutivo dos equipamentos",
@@ -415,7 +415,7 @@
       "tamanho_bytes": 5357014,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-12T09:16:31+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:34+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:42+00:00"
     },
     "de-vidro-em-fachadas": {
       "nome": "De vidro em fachadas",
@@ -428,7 +428,7 @@
       "tamanho_bytes": 727198,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:45+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:34+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:43+00:00"
     },
     "demolicoes-e-remocoes": {
       "nome": "Demolições e remoções",
@@ -441,7 +441,7 @@
       "tamanho_bytes": 3507560,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:20:54+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:35+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:43+00:00"
     },
     "depreciacao-juros-impostos-e-seguros-manutencao-e-materiais-na-operacao-dos-equipamentos": {
       "nome": "Depreciação, juros, impostos e seguros, manutenção e materiais na operação dos equipamentos",
@@ -454,7 +454,7 @@
       "tamanho_bytes": 10741896,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-12T09:16:46+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:36+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:45+00:00"
     },
     "deteccao-de-incendio-e-alarme": {
       "nome": "Detecção de incêndio e alarme",
@@ -467,7 +467,7 @@
       "tamanho_bytes": 608392,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:20+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:37+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:45+00:00"
     },
     "dispositivos-auxiliares-viarios": {
       "nome": "Dispositivos auxiliares viários",
@@ -480,7 +480,7 @@
       "tamanho_bytes": 1601678,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:25+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:37+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:46+00:00"
     },
     "dissipadores-de-energia": {
       "nome": "Dissipadores de energia",
@@ -493,7 +493,7 @@
       "tamanho_bytes": 1825045,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:30+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:38+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:47+00:00"
     },
     "dragagem": {
       "nome": "Dragagem",
@@ -506,7 +506,7 @@
       "tamanho_bytes": 342380,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:32+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:39+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:48+00:00"
     },
     "drenagem-com-geocompostos": {
       "nome": "Drenagem com geocompostos",
@@ -519,7 +519,7 @@
       "tamanho_bytes": 1359885,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:36+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:40+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:48+00:00"
     },
     "drenagem-de-ar-condicionado": {
       "nome": "Drenagem de ar condicionado",
@@ -532,7 +532,7 @@
       "tamanho_bytes": 1288493,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:39+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:40+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:49+00:00"
     },
     "drenos": {
       "nome": "Drenos",
@@ -545,7 +545,7 @@
       "tamanho_bytes": 3208103,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:48+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:41+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:50+00:00"
     },
     "dutos-para-ar-condicionado": {
       "nome": "Dutos para ar condicionado",
@@ -558,7 +558,7 @@
       "tamanho_bytes": 2605227,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:21:56+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:42+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:51+00:00"
     },
     "eletrocalhas": {
       "nome": "Eletrocalhas",
@@ -571,7 +571,7 @@
       "tamanho_bytes": 3485606,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:04+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:43+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:51+00:00"
     },
     "energia-solar-para-edificacoes": {
       "nome": "Energia solar para edificações",
@@ -584,7 +584,7 @@
       "tamanho_bytes": 1685419,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:10+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:43+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:52+00:00"
     },
     "equipamentos-de-protecao-coletiva": {
       "nome": "Equipamentos de proteção coletiva",
@@ -597,7 +597,7 @@
       "tamanho_bytes": 4052926,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:20+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:44+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:53+00:00"
     },
     "escadas": {
       "nome": "Escadas",
@@ -610,7 +610,7 @@
       "tamanho_bytes": 6727579,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:36+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:45+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:54+00:00"
     },
     "escavacao-de-valas": {
       "nome": "Escavação de valas",
@@ -623,7 +623,7 @@
       "tamanho_bytes": 4297810,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:46+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:46+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:55+00:00"
     },
     "escavacao-em-material-de-3a-categoria": {
       "nome": "Escavação em material de 3ª categoria",
@@ -636,7 +636,7 @@
       "tamanho_bytes": 947369,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:50+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:47+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:56+00:00"
     },
     "escavacao-horizontal": {
       "nome": "Escavação horizontal",
@@ -649,7 +649,7 @@
       "tamanho_bytes": 1604064,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:22:55+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:47+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:56+00:00"
     },
     "escavacao-vertical-a-ceu-aberto": {
       "nome": "Escavação vertical a céu aberto",
@@ -662,7 +662,7 @@
       "tamanho_bytes": 11727518,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:21+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:48+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:57+00:00"
     },
     "escoramento-e-preparo-de-fundo-de-valas": {
       "nome": "Escoramento e preparo de fundo de valas",
@@ -675,7 +675,7 @@
       "tamanho_bytes": 2612835,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:28+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:49+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:58+00:00"
     },
     "esgotamento-de-vala-e-rebaixamento-do-lencol-freatico": {
       "nome": "Esgotamento de vala e rebaixamento do lençol freático",
@@ -688,7 +688,7 @@
       "tamanho_bytes": 1536155,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:35+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:50+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:59+00:00"
     },
     "esquadrias---janelas": {
       "nome": "Esquadrias - janelas",
@@ -701,7 +701,7 @@
       "tamanho_bytes": 1483118,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:40+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:50+00:00"
+      "ultima_verificacao": "2026-10-26T15:54:59+00:00"
     },
     "esquadrias---portas": {
       "nome": "Esquadrias - portas",
@@ -714,7 +714,7 @@
       "tamanho_bytes": 5803963,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:55+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:51+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:00+00:00"
     },
     "estacas-broca-strauss-e-escavada-com-fluido-estabilizante": {
       "nome": "Estacas broca, strauss e escavada com fluido estabilizante",
@@ -727,7 +727,7 @@
       "tamanho_bytes": 1205777,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:23:58+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:52+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:01+00:00"
     },
     "estacas-em-helice-continua": {
       "nome": "Estacas em hélice contínua",
@@ -740,7 +740,7 @@
       "tamanho_bytes": 1223829,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:03+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:53+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:02+00:00"
     },
     "estacas-escavadas-sem-fluido-estabilizante": {
       "nome": "Estacas escavadas sem fluido estabilizante",
@@ -753,7 +753,7 @@
       "tamanho_bytes": 2641269,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:11+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:53+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:03+00:00"
     },
     "estacas-metalicas": {
       "nome": "Estacas metálicas",
@@ -766,7 +766,7 @@
       "tamanho_bytes": 395871,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:13+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:54+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:03+00:00"
     },
     "estacas-pre-moldadas": {
       "nome": "Estacas pré-moldadas",
@@ -779,7 +779,7 @@
       "tamanho_bytes": 476503,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:15+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:54+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:04+00:00"
     },
     "estacas-raiz": {
       "nome": "Estacas raiz",
@@ -792,7 +792,7 @@
       "tamanho_bytes": 631202,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:17+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:55+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:05+00:00"
     },
     "estrutura-e-trama-para-cobertura": {
       "nome": "Estrutura e trama para cobertura",
@@ -805,7 +805,7 @@
       "tamanho_bytes": 8539336,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:37+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:56+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:06+00:00"
     },
     "estruturas-de-contencao---estacas-paredes-diafragma-e-mureta-guia": {
       "nome": "Estruturas de contenção - estacas, paredes diafragma e mureta guia",
@@ -818,7 +818,7 @@
       "tamanho_bytes": 1231483,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:41+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:56+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:07+00:00"
     },
     "estruturas-de-contencao---perfis-pranchados-cortinas-e-muros-de-arrimo": {
       "nome": "Estruturas de contenção - perfis pranchados, cortinas e muros de arrimo",
@@ -831,7 +831,7 @@
       "tamanho_bytes": 1660811,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:46+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:57+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:07+00:00"
     },
     "estruturas-de-madeira": {
       "nome": "Estruturas de madeira",
@@ -844,7 +844,7 @@
       "tamanho_bytes": 3111309,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:54+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:58+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:08+00:00"
     },
     "estruturas-pre-fabricadas-e-pre--moldadas": {
       "nome": "Estruturas pré-fabricadas e pré- moldadas",
@@ -857,7 +857,7 @@
       "tamanho_bytes": 1069473,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:24:58+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:58+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:09+00:00"
     },
     "execucao-de-grampo-para-solo-grampeado": {
       "nome": "Execução de grampo para solo grampeado",
@@ -870,7 +870,7 @@
       "tamanho_bytes": 567897,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:00+00:00",
-      "ultima_verificacao": "2026-10-19T16:15:59+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:10+00:00"
     },
     "execucao-de-tirantes": {
       "nome": "Execução de tirantes",
@@ -883,7 +883,7 @@
       "tamanho_bytes": 3486418,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:09+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:00+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:10+00:00"
     },
     "fachadas-com-placas-ceramicas-e-granito---insertadas": {
       "nome": "Fachadas com placas cerâmicas e granito - insertadas",
@@ -896,7 +896,7 @@
       "tamanho_bytes": 645117,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:11+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:01+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:11+00:00"
     },
     "forros": {
       "nome": "Forros",
@@ -909,7 +909,7 @@
       "tamanho_bytes": 931958,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:14+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:01+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:12+00:00"
     },
     "fossas-e-sumidouros": {
       "nome": "Fossas e sumidouros",
@@ -922,7 +922,7 @@
       "tamanho_bytes": 3328231,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:22+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:02+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:13+00:00"
     },
     "fundacoes-rasas-blocos-sapatas-vigas-baldrame": {
       "nome": "Fundações rasas (blocos, sapatas, vigas baldrame)",
@@ -935,7 +935,7 @@
       "tamanho_bytes": 3110498,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:33+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:03+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:14+00:00"
     },
     "formas-curvas-para-paredes-de-reservatorios-de-concreto": {
       "nome": "Fôrmas curvas para paredes de reservatórios de concreto",
@@ -948,7 +948,7 @@
       "tamanho_bytes": 364191,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:36+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:03+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:14+00:00"
     },
     "formas-para-estruturas-de-concreto-armado": {
       "nome": "Fôrmas para estruturas de concreto armado",
@@ -961,7 +961,7 @@
       "tamanho_bytes": 5905700,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:50+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:04+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:15+00:00"
     },
     "formas-para-pilares-circulares": {
       "nome": "Fôrmas para pilares circulares",
@@ -974,7 +974,7 @@
       "tamanho_bytes": 704219,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:25:53+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:05+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:16+00:00"
     },
     "gabioes---execucao-de-muro-e-protecao-superficial": {
       "nome": "Gabiões - execução de muro e proteção superficial",
@@ -987,7 +987,7 @@
       "tamanho_bytes": 2835588,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:01+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:06+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:17+00:00"
     },
     "galerias-com-aduelas-de-concreto": {
       "nome": "Galerias com aduelas de concreto",
@@ -1000,7 +1000,7 @@
       "tamanho_bytes": 2168263,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:06+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:17+00:00"
     },
     "geodrenos-verticais": {
       "nome": "Geodrenos verticais",
@@ -1013,7 +1013,7 @@
       "tamanho_bytes": 246078,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:08+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:07+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:18+00:00"
     },
     "gesso": {
       "nome": "Gesso",
@@ -1026,7 +1026,7 @@
       "tamanho_bytes": 1225390,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:13+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:08+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:19+00:00"
     },
     "graute-e-armacao": {
       "nome": "Graute e armação",
@@ -1039,7 +1039,7 @@
       "tamanho_bytes": 2140760,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:18+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:09+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:20+00:00"
     },
     "guarda-corpo-corrimao-e-grade-para-esquadrias": {
       "nome": "Guarda-corpo, corrimão e grade para esquadrias",
@@ -1052,7 +1052,7 @@
       "tamanho_bytes": 2734107,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:26+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:09+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:21+00:00"
     },
     "guarda-corpo-corrimao-e-grade-para-esquadrias-29-composicoes-atualizado-07": {
       "nome": "Guarda-corpo, corrimão e grade para esquadrias 29 composições · atualizado 07/",
@@ -1065,7 +1065,7 @@
       "tamanho_bytes": 2734107,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:33+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:10+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:21+00:00"
     },
     "guias-e-sarjetas": {
       "nome": "Guias e sarjetas",
@@ -1078,7 +1078,7 @@
       "tamanho_bytes": 2016090,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:38+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:11+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:22+00:00"
     },
     "iluminacao-predial-e-monitoramento": {
       "nome": "Iluminação predial e monitoramento",
@@ -1091,7 +1091,7 @@
       "tamanho_bytes": 2180188,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:44+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:11+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:23+00:00"
     },
     "impermeabilizacao-protecao-mecanica-e-tratamento-de-junta": {
       "nome": "Impermeabilização, proteção mecânica e tratamento de junta",
@@ -1104,7 +1104,7 @@
       "tamanho_bytes": 2463653,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:26:51+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:12+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:24+00:00"
     },
     "instalacoes-de-ar-condicionado": {
       "nome": "Instalações de ar condicionado",
@@ -1117,7 +1117,7 @@
       "tamanho_bytes": 3875065,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:01+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:24+00:00"
     },
     "instalacoes-de-ar-condicionado-em-cobre": {
       "nome": "Instalações de ar condicionado em cobre",
@@ -1130,7 +1130,7 @@
       "tamanho_bytes": 792189,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:05+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:25+00:00"
     },
     "instalacoes-de-divisorias-diversas": {
       "nome": "Instalações de divisórias diversas",
@@ -1143,7 +1143,7 @@
       "tamanho_bytes": 1664285,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:11+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:14+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:26+00:00"
     },
     "instalacoes-de-gas-e-incendio-em-aco-e-ferro-galvanizado": {
       "nome": "Instalações de gás e incêndio em aço e ferro galvanizado",
@@ -1156,7 +1156,7 @@
       "tamanho_bytes": 7227518,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:28+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:27+00:00"
     },
     "instalacoes-de-gas-em-pex-multicamadas": {
       "nome": "Instalações de gás em PEX multicamadas",
@@ -1169,7 +1169,7 @@
       "tamanho_bytes": 2192309,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:34+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:28+00:00"
     },
     "instalacoes-eletricas---eletrodutos-embutidos-cabos-caixas-tomadas-e-interruptores": {
       "nome": "Instalações elétricas - eletrodutos embutidos, cabos, caixas, tomadas e interruptores",
@@ -1182,7 +1182,7 @@
       "tamanho_bytes": 7896768,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:53+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:16+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:29+00:00"
     },
     "instalacoes-eletricas---eletrodutos-conexoes-e-conduletes-aparentes": {
       "nome": "Instalações elétricas - eletrodutos, conexões e conduletes aparentes",
@@ -1195,7 +1195,7 @@
       "tamanho_bytes": 1970963,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:27:58+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:17+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:30+00:00"
     },
     "instalacoes-eletricas---quadros-cabos-disjuntores-contatores-e-barramentos-blindados": {
       "nome": "Instalações elétricas - quadros, cabos, disjuntores, contatores e barramentos blindados",
@@ -1208,7 +1208,7 @@
       "tamanho_bytes": 3566134,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:28:07+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:18+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:30+00:00"
     },
     "instalacoes-eletricas---rede-de-distribuicao": {
       "nome": "Instalações elétricas - rede de distribuição",
@@ -1221,7 +1221,7 @@
       "tamanho_bytes": 6023400,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:28:22+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:18+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:31+00:00"
     },
     "instalacoes-em-cobre": {
       "nome": "Instalações em cobre",
@@ -1234,7 +1234,7 @@
       "tamanho_bytes": 7394121,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:28:39+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:19+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:32+00:00"
     },
     "instalacoes-hidraulicas---reservacao-e-bombas-de-recalque": {
       "nome": "Instalações hidráulicas - reservação e bombas de recalque",
@@ -1247,7 +1247,7 @@
       "tamanho_bytes": 15215421,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:29:14+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:20+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:33+00:00"
     },
     "instalacoes-hidraulicas-em-pex": {
       "nome": "Instalações hidráulicas em PEX",
@@ -1260,7 +1260,7 @@
       "tamanho_bytes": 6454277,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:29:30+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:20+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:34+00:00"
     },
     "instalacoes-hidraulicas-em-ppr": {
       "nome": "Instalações hidráulicas em PPR",
@@ -1273,7 +1273,7 @@
       "tamanho_bytes": 4764735,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:29:42+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:21+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:35+00:00"
     },
     "instalacoes-para-canteiros-de-obras": {
       "nome": "Instalações para canteiros de obras",
@@ -1286,7 +1286,7 @@
       "tamanho_bytes": 1873975,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:29:47+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:22+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:35+00:00"
     },
     "instalacoes-prediais-de-esgoto---caixas-e-ralos": {
       "nome": "Instalações prediais de esgoto - caixas e ralos",
@@ -1299,7 +1299,7 @@
       "tamanho_bytes": 494647,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:29:49+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:23+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:36+00:00"
     },
     "instalacoes-prediais-de-esgoto---tubos-e-conexoes": {
       "nome": "Instalações prediais de esgoto - tubos e conexões",
@@ -1312,7 +1312,7 @@
       "tamanho_bytes": 5355012,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:30:02+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:23+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:37+00:00"
     },
     "instalacoes-prediais-de-agua-fria-em-pvc": {
       "nome": "Instalações prediais de água fria em PVC",
@@ -1325,7 +1325,7 @@
       "tamanho_bytes": 13109781,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:30:32+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:24+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:38+00:00"
     },
     "instalacoes-prediais-de-agua-quente-em-cpvc": {
       "nome": "Instalações prediais de água quente em CPVC",
@@ -1338,7 +1338,7 @@
       "tamanho_bytes": 6665650,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:30:48+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:25+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:39+00:00"
     },
     "instalacoes-prediais-de-aguas-pluviais---tubos-conexoes-caixas-e-ralos": {
       "nome": "Instalações prediais de águas pluviais - tubos, conexões, caixas e ralos",
@@ -1351,7 +1351,7 @@
       "tamanho_bytes": 4429867,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:30:59+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:26+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:40+00:00"
     },
     "lajes-pre-moldadas": {
       "nome": "Lajes pré-moldadas",
@@ -1364,7 +1364,7 @@
       "tamanho_bytes": 3268400,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:07+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:26+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:40+00:00"
     },
     "lastro": {
       "nome": "Lastro",
@@ -1377,7 +1377,7 @@
       "tamanho_bytes": 718819,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:10+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:27+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:41+00:00"
     },
     "ligacoes-prediais-de-agua-e-esgoto": {
       "nome": "Ligações prediais de água e esgoto",
@@ -1390,7 +1390,7 @@
       "tamanho_bytes": 2230424,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:16+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:28+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:42+00:00"
     },
     "limpeza-de-obra": {
       "nome": "Limpeza de obra",
@@ -1403,7 +1403,7 @@
       "tamanho_bytes": 1061710,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:21+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:28+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:43+00:00"
     },
     "locacao-de-obras": {
       "nome": "Locação de obras",
@@ -1416,7 +1416,7 @@
       "tamanho_bytes": 776376,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:25+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:29+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:43+00:00"
     },
     "loucas-e-metais": {
       "nome": "Louças e metais",
@@ -1429,7 +1429,7 @@
       "tamanho_bytes": 4990200,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:37+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:30+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:44+00:00"
     },
     "luminarias-externas": {
       "nome": "Luminárias externas",
@@ -1442,7 +1442,7 @@
       "tamanho_bytes": 1121791,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:40+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:30+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:45+00:00"
     },
     "massa-unica-externa": {
       "nome": "Massa única externa",
@@ -1455,7 +1455,7 @@
       "tamanho_bytes": 5585639,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:31:55+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:31+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:46+00:00"
     },
     "massa-unica-interna": {
       "nome": "Massa única interna",
@@ -1468,7 +1468,7 @@
       "tamanho_bytes": 4306877,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:32+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:47+00:00"
     },
     "mobilizacao-e-desmobilizacao-de-equipamentos-pesados": {
       "nome": "Mobilização e desmobilização de equipamentos pesados",
@@ -1481,7 +1481,7 @@
       "tamanho_bytes": 5132886,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:18+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:33+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:47+00:00"
     },
     "mobiliario-urbano": {
       "nome": "Mobiliário urbano",
@@ -1494,7 +1494,7 @@
       "tamanho_bytes": 1253965,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:22+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:33+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:48+00:00"
     },
     "monocapa": {
       "nome": "Monocapa",
@@ -1507,7 +1507,7 @@
       "tamanho_bytes": 1374205,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:26+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:34+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:49+00:00"
     },
     "montagem-de-gruas-e-cremalheiras": {
       "nome": "Montagem de gruas e cremalheiras",
@@ -1520,7 +1520,7 @@
       "tamanho_bytes": 1081471,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:30+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:35+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:50+00:00"
     },
     "paisagismo---plantio": {
       "nome": "Paisagismo - plantio",
@@ -1533,7 +1533,7 @@
       "tamanho_bytes": 1531769,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:34+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:35+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:51+00:00"
     },
     "paredes-de-concreto---armacao": {
       "nome": "Paredes de concreto - armação",
@@ -1546,7 +1546,7 @@
       "tamanho_bytes": 2398982,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:46+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:37+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:53+00:00"
     },
     "paredes-de-concreto---concretagem": {
       "nome": "Paredes de concreto - concretagem",
@@ -1559,7 +1559,7 @@
       "tamanho_bytes": 920073,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:49+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:38+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:54+00:00"
     },
     "paredes-de-concreto---estucamento": {
       "nome": "Paredes de concreto - estucamento",
@@ -1572,7 +1572,7 @@
       "tamanho_bytes": 1840737,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:54+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:39+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:55+00:00"
     },
     "paredes-de-concreto---formas": {
       "nome": "Paredes de concreto - fôrmas",
@@ -1585,7 +1585,7 @@
       "tamanho_bytes": 616332,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:32:57+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:40+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:55+00:00"
     },
     "paredes-em-drywall": {
       "nome": "Paredes em drywall",
@@ -1598,7 +1598,7 @@
       "tamanho_bytes": 1485330,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:01+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:40+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:56+00:00"
     },
     "parquinhos-e-equipamentos-de-ginastica-ao-ar-livre": {
       "nome": "Parquinhos e equipamentos de ginástica ao ar livre",
@@ -1611,7 +1611,7 @@
       "tamanho_bytes": 1916713,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:41+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:57+00:00"
     },
     "passeios-de-concreto": {
       "nome": "Passeios de concreto",
@@ -1624,7 +1624,7 @@
       "tamanho_bytes": 1050129,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:10+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:42+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:58+00:00"
     },
     "pavimentacoes-diversas---paralelepipedos-e-pedras-poliedricas": {
       "nome": "Pavimentações diversas - paralelepípedos e pedras poliédricas",
@@ -1637,7 +1637,7 @@
       "tamanho_bytes": 482572,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:12+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:42+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:59+00:00"
     },
     "pavimento-intertravado": {
       "nome": "Pavimento intertravado",
@@ -1650,7 +1650,7 @@
       "tamanho_bytes": 1766137,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:17+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:43+00:00"
+      "ultima_verificacao": "2026-10-26T15:55:59+00:00"
     },
     "pavimento-rigido-de-concreto": {
       "nome": "Pavimento rígido de concreto",
@@ -1663,7 +1663,7 @@
       "tamanho_bytes": 2454890,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:24+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:44+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:00+00:00"
     },
     "peitoris-e-chapins": {
       "nome": "Peitoris e chapins",
@@ -1676,7 +1676,7 @@
       "tamanho_bytes": 519020,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:29+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:44+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:01+00:00"
     },
     "peneiramento-e-ensacamento-de-areia-em-obra": {
       "nome": "Peneiramento e ensacamento de areia em obra",
@@ -1689,7 +1689,7 @@
       "tamanho_bytes": 227369,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:31+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:45+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:02+00:00"
     },
     "perfuracao-horizontal-direcional---hdd": {
       "nome": "Perfuração horizontal direcional - HDD",
@@ -1702,7 +1702,7 @@
       "tamanho_bytes": 6215140,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:46+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:46+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:02+00:00"
     },
     "pintura-em-madeira": {
       "nome": "Pintura em madeira",
@@ -1715,7 +1715,7 @@
       "tamanho_bytes": 1397562,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:50+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:46+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:03+00:00"
     },
     "pintura-em-superficies-metalicas": {
       "nome": "Pintura em superfícies metálicas",
@@ -1728,7 +1728,7 @@
       "tamanho_bytes": 1733537,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:33:55+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:47+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:04+00:00"
     },
     "pintura-em-superficies-metalicas-47-composicoes-atualizado-07": {
       "nome": "Pintura em superfícies metálicas 47 composições · atualizado 07/",
@@ -1741,7 +1741,7 @@
       "tamanho_bytes": 1733537,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:00+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:47+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:05+00:00"
     },
     "pintura-externa": {
       "nome": "Pintura externa",
@@ -1754,7 +1754,7 @@
       "tamanho_bytes": 1947826,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:48+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:05+00:00"
     },
     "pintura-interna": {
       "nome": "Pintura interna",
@@ -1767,7 +1767,7 @@
       "tamanho_bytes": 1229369,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:09+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:48+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:06+00:00"
     },
     "pintura-para-pisos": {
       "nome": "Pintura para pisos",
@@ -1780,7 +1780,7 @@
       "tamanho_bytes": 737678,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:12+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:49+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:07+00:00"
     },
     "pisos": {
       "nome": "Pisos",
@@ -1793,7 +1793,7 @@
       "tamanho_bytes": 2918855,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:19+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:50+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:08+00:00"
     },
     "postes-de-concreto-e-metalicos": {
       "nome": "Postes de concreto e metálicos",
@@ -1806,7 +1806,7 @@
       "tamanho_bytes": 4052791,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:29+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:50+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:08+00:00"
     },
     "pocos-de-visita-e-caixas-para-bocas-de-lobo": {
       "nome": "Poços de visita e caixas para bocas de lobo",
@@ -1819,7 +1819,7 @@
       "tamanho_bytes": 11592070,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:34:57+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:51+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:09+00:00"
     },
     "producao-de-concreto": {
       "nome": "Produção de concreto",
@@ -1832,7 +1832,7 @@
       "tamanho_bytes": 1769281,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:03+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:52+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:10+00:00"
     },
     "producao-de-concretos-e-argamassas-utilizando-agregado-reciclado": {
       "nome": "Produção de concretos e argamassas utilizando agregado reciclado",
@@ -1845,7 +1845,7 @@
       "tamanho_bytes": 999202,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:53+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:11+00:00"
     },
     "quadras-e-seus-equipamentos": {
       "nome": "Quadras e seus equipamentos",
@@ -1858,7 +1858,7 @@
       "tamanho_bytes": 977635,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:09+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:53+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:11+00:00"
     },
     "quadros-de-automacao-de-bombas": {
       "nome": "Quadros de automação de bombas",
@@ -1871,7 +1871,7 @@
       "tamanho_bytes": 1619180,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:14+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:54+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:12+00:00"
     },
     "radier-piso-de-concreto-e-laje-sobre-solo": {
       "nome": "Radier, piso de concreto e laje sobre solo",
@@ -1884,7 +1884,7 @@
       "tamanho_bytes": 2808998,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:22+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:55+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:13+00:00"
     },
     "rasgos-e-fixacoes": {
       "nome": "Rasgos e fixações",
@@ -1897,7 +1897,7 @@
       "tamanho_bytes": 6307257,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:37+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:55+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:14+00:00"
     },
     "recomposicao-de-pavimentos": {
       "nome": "Recomposição de pavimentos",
@@ -1910,7 +1910,7 @@
       "tamanho_bytes": 4282278,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:47+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:56+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:15+00:00"
     },
     "redes-de-logica-telefonia-e-imagem": {
       "nome": "Redes de lógica, telefonia e imagem",
@@ -1923,7 +1923,7 @@
       "tamanho_bytes": 2717809,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:35:55+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:57+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:16+00:00"
     },
     "redes-de-agua-e-esgoto-em-pead-liso-tubos-e-conexoes": {
       "nome": "Redes de água e esgoto em PEAD liso (tubos e conexões)",
@@ -1936,7 +1936,7 @@
       "tamanho_bytes": 3860074,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:05+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:57+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:16+00:00"
     },
     "redes-enterradas-de-distribuicao-eletrica": {
       "nome": "Redes enterradas de distribuição elétrica",
@@ -1949,7 +1949,7 @@
       "tamanho_bytes": 1755347,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:09+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:58+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:17+00:00"
     },
     "remocao-de-entulho-e-descarte": {
       "nome": "Remoção de entulho e descarte",
@@ -1962,7 +1962,7 @@
       "tamanho_bytes": 406094,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:12+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:58+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:18+00:00"
     },
     "reservatorios-de-concreto-e-metalicos": {
       "nome": "Reservatórios de concreto e metálicos",
@@ -1975,7 +1975,7 @@
       "tamanho_bytes": 2571654,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:19+00:00",
-      "ultima_verificacao": "2026-10-19T16:16:59+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:19+00:00"
     },
     "revestimentos-ceramicos-externos": {
       "nome": "Revestimentos cerâmicos externos",
@@ -1988,7 +1988,7 @@
       "tamanho_bytes": 1157902,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:23+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:00+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:20+00:00"
     },
     "revestimentos-ceramicos-internos": {
       "nome": "Revestimentos cerâmicos internos",
@@ -2001,7 +2001,7 @@
       "tamanho_bytes": 3172459,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:31+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:01+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:20+00:00"
     },
     "sinalizacao-horizontal-viaria": {
       "nome": "Sinalização horizontal viária",
@@ -2014,7 +2014,7 @@
       "tamanho_bytes": 747409,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:34+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:01+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:21+00:00"
     },
     "sinalizacao-vertical-viaria": {
       "nome": "Sinalização vertical viária",
@@ -2027,7 +2027,7 @@
       "tamanho_bytes": 1746556,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:39+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:02+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:22+00:00"
     },
     "sistema-de-protecao-contra-descargas-atmosfericas---spda": {
       "nome": "Sistema de proteção contra descargas atmosféricas - SPDA",
@@ -2040,7 +2040,7 @@
       "tamanho_bytes": 1649635,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:44+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:03+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:23+00:00"
     },
     "sistemas-de-medicao": {
       "nome": "Sistemas de medição",
@@ -2053,7 +2053,7 @@
       "tamanho_bytes": 5270032,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:36:57+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:03+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:24+00:00"
     },
     "sistemas-de-medicao-de-gas": {
       "nome": "Sistemas de medição de gás",
@@ -2066,7 +2066,7 @@
       "tamanho_bytes": 2189459,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:03+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:04+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:25+00:00"
     },
     "sistemas-hospitalares---pontos-de-consumo": {
       "nome": "Sistemas hospitalares - pontos de consumo",
@@ -2079,7 +2079,7 @@
       "tamanho_bytes": 347693,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:05+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:05+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:25+00:00"
     },
     "solda-de-topo-em-elementos-de-aco": {
       "nome": "Solda de topo em elementos de aço",
@@ -2092,7 +2092,7 @@
       "tamanho_bytes": 285590,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:06+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:05+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:26+00:00"
     },
     "supressao-vegetal": {
       "nome": "Supressão vegetal",
@@ -2105,7 +2105,7 @@
       "tamanho_bytes": 570024,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:09+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:06+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:27+00:00"
     },
     "telhamento-para-cobertura": {
       "nome": "Telhamento para cobertura",
@@ -2118,7 +2118,7 @@
       "tamanho_bytes": 2655830,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:16+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:07+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:27+00:00"
     },
     "transformadores": {
       "nome": "Transformadores",
@@ -2131,7 +2131,7 @@
       "tamanho_bytes": 848807,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:19+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:07+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:28+00:00"
     },
     "transporte-de-materiais-dentro-do-canteiro-de-obras": {
       "nome": "Transporte de materiais dentro do canteiro de obras",
@@ -2144,7 +2144,7 @@
       "tamanho_bytes": 6550178,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:34+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:08+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:29+00:00"
     },
     "transporte-fluvial---carga-e-descarga": {
       "nome": "Transporte fluvial - carga e descarga",
@@ -2157,7 +2157,7 @@
       "tamanho_bytes": 5563183,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:48+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:09+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:30+00:00"
     },
     "transporte-fluvial---momento-de-transporte": {
       "nome": "Transporte fluvial - momento de transporte",
@@ -2170,7 +2170,7 @@
       "tamanho_bytes": 393620,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:37:51+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:09+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:31+00:00"
     },
     "transporte-carga-e-descarga-de-materiais": {
       "nome": "Transporte, carga e descarga de materiais",
@@ -2183,7 +2183,7 @@
       "tamanho_bytes": 13089661,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:21+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:10+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:31+00:00"
     },
     "tratamentos-superficiais": {
       "nome": "Tratamentos superficiais",
@@ -2196,7 +2196,7 @@
       "tamanho_bytes": 1686588,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:25+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:11+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:32+00:00"
     },
     "tubulacao-flangeada-para-redes-de-agua": {
       "nome": "Tubulação flangeada para redes de água",
@@ -2209,7 +2209,7 @@
       "tamanho_bytes": 4953671,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:37+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:11+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:33+00:00"
     },
     "tubuloes": {
       "nome": "Tubulões",
@@ -2222,7 +2222,7 @@
       "tamanho_bytes": 1077079,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:43+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:12+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:34+00:00"
     },
     "tunnel-liner": {
       "nome": "Tunnel liner",
@@ -2235,7 +2235,7 @@
       "tamanho_bytes": 1655514,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:48+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:34+00:00"
     },
     "usinagens": {
       "nome": "Usinagens",
@@ -2248,7 +2248,7 @@
       "tamanho_bytes": 2246241,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:38:54+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:13+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:35+00:00"
     },
     "vergas-contravergas-e-fixacao-de-alvenaria": {
       "nome": "Vergas, contravergas e fixação de alvenaria",
@@ -2261,7 +2261,7 @@
       "tamanho_bytes": 2532852,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:39:04+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:14+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:36+00:00"
     },
     "vidros-e-espelhos": {
       "nome": "Vidros e espelhos",
@@ -2274,7 +2274,7 @@
       "tamanho_bytes": 2531034,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:39:10+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:37+00:00"
     },
     "valvulas-e-registros-para-sistemas-prediais": {
       "nome": "Válvulas e registros para sistemas prediais",
@@ -2287,7 +2287,7 @@
       "tamanho_bytes": 3240592,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:39:18+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:15+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:38+00:00"
     },
     "valvulas-para-redes-de-saneamento": {
       "nome": "Válvulas para redes de saneamento",
@@ -2300,26 +2300,26 @@
       "tamanho_bytes": 2743060,
       "status_ultima_sincronizacao": "sem_alteracao",
       "baixado_em": "2026-10-05T09:39:26+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:16+00:00"
+      "ultima_verificacao": "2026-10-26T15:56:38+00:00"
     },
     "caderno-vigente": {
       "nome": "caderno vigente →",
-      "url_pagina": "https://buscadorsinapi.com.br/caderno-tecnico/solda-de-topo-em-elementos-de-aco",
-      "url_pdf_original": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SOLDA-DE-TOPO-EM-ELEMENTOS-DE-ACO.pdf",
+      "url_pagina": "https://buscadorsinapi.com.br/caderno-tecnico/estacas-pre-moldadas",
+      "url_pdf_original": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ESTACAS-PRE-MOLDADAS.pdf",
       "arquivo": "pdfs/SINAPI-CT-CADERNO-VIGENTE.pdf",
-      "content_length": "285590",
-      "last_modified_http": "Fri, 09 May 2025 20:46:14 GMT",
-      "sha256": "ec14d355a28056eaeca1608ee35780b51ba55cc509023197b6f9204e6f18f64b",
-      "tamanho_bytes": 285590,
-      "status_ultima_sincronizacao": "sem_alteracao",
-      "baixado_em": "2026-10-05T09:39:28+00:00",
-      "ultima_verificacao": "2026-10-19T16:17:17+00:00"
+      "content_length": "476503",
+      "last_modified_http": "Fri, 09 May 2025 20:39:52 GMT",
+      "sha256": "8546c81c2e6d95b294f23aad86bc530e1464e044ebf45e673604edc29fefdd64",
+      "tamanho_bytes": 476503,
+      "status_ultima_sincronizacao": "atualizado",
+      "baixado_em": "2026-10-26T15:56:41+00:00",
+      "ultima_verificacao": "2026-10-26T15:56:41+00:00"
     }
   },
   "resumo_ultima_execucao": {
     "novos": 0,
-    "atualizados": 0,
-    "sem_alteracao": 178,
+    "atualizados": 1,
+    "sem_alteracao": 177,
     "erros": 1
   }
 }
